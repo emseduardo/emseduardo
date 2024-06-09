@@ -2,7 +2,7 @@
 
 
 Meu nome é Eduardo
-- Estou estudando por meio da plataforma [Alura](httpss://www.alura.com.br)
+- Estou estudando por meio da plataforma[Alura](httpss://www.alura.com.br)
 - Possuo interesse em programar sites
 
 ### Forma de contato: 
